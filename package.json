@@ -1,0 +1,19 @@
+{
+  "name": "columbia-bigd204",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export",
+    "dev:01_introduction": "slidev --slides=decks/01_introduction.md"
+  },
+  "dependencies": {
+    "@slidev/cli": "^51.0.1",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "slidev-addon-python-runner": "^0.1.3",
+    "slidev-theme-the-unnamed": "^0.0.22",
+    "vue": "^3.5.13"
+  }
+}
