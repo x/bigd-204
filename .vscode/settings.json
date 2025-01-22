@@ -1,0 +1,9 @@
+{
+    "slidev.preview-sync": true,
+    "cSpell.enabled": true,
+    "cSpell.words": [
+        "slidev",
+        "Tablular"
+    ],
+    "slidev.dev-command": "nvm use --lts && npm exec -c 'slidev ${args}'"
+}
