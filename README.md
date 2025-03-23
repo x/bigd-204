@@ -1,4 +1,14 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Data Science and Machine Learning 2
+
+These are my slides from teaching `BIGD-204` in Spring 2025 for Columbia School of Professional Development. The slides are implimented using Slidev.
+
+## Accessing the Slides
+
+This repo is built and deployed to:
+
+[https://peticol.as/bigd-204/](https://peticol.as/bigd-204/)
+
+## Running Slidev Locally
 
 To start the slide show:
 
